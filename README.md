@@ -58,4 +58,5 @@ print(...): Menampilkan pesan bahwa data mahasiswa berhasil diubah atau tidak di
 # Diagram class
 
 # Flowchart
+![flwchrt labpy08](https://github.com/user-attachments/assets/5225095d-2756-4590-b83c-76028d4432a7)
 
