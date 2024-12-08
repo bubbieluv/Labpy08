@@ -56,6 +56,8 @@ mahasiswa['nilai'] = nilai_baru: Mengubah nilai mahasiswa jika ditemukan.
 print(...): Menampilkan pesan bahwa data mahasiswa berhasil diubah atau tidak ditemukan.
 
 # Diagram class
+![diagramclass labpy08](https://github.com/user-attachments/assets/d699b509-c091-480e-a808-c4c09970fea9)
+
 
 # Flowchart
 ![flwchrt labpy08](https://github.com/user-attachments/assets/5225095d-2756-4590-b83c-76028d4432a7)
